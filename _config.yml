@@ -9,8 +9,8 @@ words_per_minute: 200
 baseurl: 
 
 # Website info
-title: Ghost
-description: The professional publishing platform
+title: gaonhwani
+description: 정보&보안&개인 Blog
 cover: assets/images/blog-cover.jpg
 logo: assets/images/blog-icon.png
 logo_dark: assets/images/favicon.png
