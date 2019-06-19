@@ -1,8 +1,8 @@
-ghost:
-  username: ghost
-  name: Ghost
-  url_full: http://jekyller.github.io/jasper2/
-  url: jekyller.github.io/jasper2
+gaonhwani:
+  username: gaonhwani
+  name: gaonhwani
+  url_full: http://gaonhwani.github.io
+  url: gaonhwani.github.io
   bio: The professional publishing platform
   picture: assets/images/ghost.png
   facebook: ghost
