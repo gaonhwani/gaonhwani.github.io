@@ -8,10 +8,15 @@ class: page-template
 subclass: 'post page'
 ---
 
-Ghost is professional publishing platform designed for modern journalism. This is a demo site of a basic Ghost install to give you a general sense of what a new Ghost site looks like when set up for the first time.
+<p><strong>헤당 블로그는 개인적으로 잊지 않을 목적으로 작성된 글입니다.</strong></p>
 
-> If you'd like to set up a site like this for yourself, head over to [Ghost.org](https://ghost.org/) and start a free 14 day trial to give Ghost a try!
+> 현재 [(주)시큐어코퍼](https://www.securecorp.co.kr)에서 보안컨설팅 업무를 맡고 있으며, 모의해킹 업무를 주로 맡아 진해하고 있습니다.
 
-If you're a developer: Ghost is a completely open source (MIT) Node.js application built on a JSON API with an Ember.js admin client. It works with MySQL and SQLite, and is publicly available [on Github](https://github.com/TryGhost/ghost).
+해당 블로그에 개인적으로 모의해킹 및 Android, python등의 내용을 작성할 예정이며, 관련 내용은 아래와 같습니다.
 
-If you need help with using Ghost, you'll find a ton of useful articles on [our knowledgebase](https://help.ghost.org/), as well as extensive [developer documentation](https://docs.ghost.org/).
+1. 모의해킹: 웹,모바일,CTF, CVE테스트등을 작성할 예정
+2. python: 크롤러, 암복호화, 그외 개발 작성 예정
+3. Develope: JSP홈페이지 개발 및 관리, Android App 개발 내용 작성 예정
+4. info: 네이버에서 제공되는 modoo, 깃블로그 사용등의 다수 내용 작성 예정
+
+꾸준히 작성하고 관리하도록 노력해 보겠습니다.
